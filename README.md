@@ -40,7 +40,7 @@ PGAdmin_password
 
 - [@SimonHope](https://github.com/SimonHope)
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Lucky-MooKrob/Database-LuckyMooKrob/graphs/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
